@@ -1,0 +1,174 @@
+[
+    {
+        "name": "Nassau Hall",
+        "description": "nassau.txt",
+        "image": "nassau.jpg",
+        "subsites": [
+            {
+                "name": "Civil War Memorial",
+                "description": "memorial.txt",
+                "image": "memorial.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Burr Hall",
+        "description": "burr.txt",
+        "image": "burr.jpg"
+
+    },
+    {
+        "name": "Palmer House",
+        "description": "palmer.txt",
+        "image": "palmer.jpg"
+    },
+    {
+        "name": "Prospect House",
+        "description": "prospect.txt",
+        "image": "prospect.jpg"
+    },
+    {
+        "name": "Walter Lowrie House",
+        "description": "lowrie.txt",
+        "image": "lowrie.jpg"
+    },
+    {
+        "name": "Dickinson Hall",
+        "description": "dickinson.txt",
+        "image": "dickinson.jpg"
+    },
+    {
+        "name": "Edwards Hall",
+        "description": "edwards.txt",
+        "image": "edwards.jpg"
+    },
+    {
+        "name": "Madison Hall",
+        "description": "madison.txt",
+        "image": "madison.jpg"
+    },
+    {
+        "name": "Stanhope Hall",
+        "description": "stanhope.txt",
+        "image": "stanhope.jpg"
+    },
+    {
+        "name": "Witherspoon Hall",
+        "description": "witherspoon.txt",
+        "image": "witherspoon.jpg"
+    },
+    {
+        "name": "Dod Hall",
+        "description": "dod.txt",
+        "image": "dod.jpg"
+    },
+    {
+        "name": "Pyne Hall",
+        "description": "pyne.txt",
+        "image": "pyne.jpg"
+    },
+    {
+        "name": "East Pyne",
+        "description": "eastpyne.txt",
+        "image": "eastpyne.jpg"
+    },
+    {
+        "name": "Maclean House",
+        "description": "maclean.txt",
+        "image": "maclean.jpg"
+    },
+    {
+        "name": "Joseph Henry House",
+        "description": "henry.txt",
+        "image": "henry.jpg"
+    },
+    {
+        "name": "FitzRandolph Gate",
+        "description": "gate.txt",
+        "image": "gate.jpg"
+    },
+    {
+        "name": "Statue of John Witherspoon",
+        "description": "statue.txt",
+        "image": "statue.jpg"
+    },
+    {
+        "name": "Frist Campus Center",
+        "description": "frist.txt",
+        "image": "frist.jpg"
+    },
+    {
+        "name": "Firestone Library",
+        "description": "firestone.txt"
+        "image": "firestone.jpg",
+        "subsites": [
+            {
+                "name": "Plaque (John Maclean Jr.)",
+                "description": "plaquemaclean.txt"
+            },
+            {
+                "name": "Coat of Arms (Jonathan Belcher)",
+                "description": "belcher.txt"
+            }
+        ]
+    },
+    {
+        "name": "University Chapel",
+        "description": "chapel.txt",
+        "image": "chapel.jpg",
+        "subsites": [
+            {
+                "name": "Pews",
+                "description": "pews.txt"
+            },
+            {
+                "name": "South Clerestory Window (James Madison)",
+                "description": "window.txt"
+            },
+            {
+                "name": "Stone Shield (John Witherspoon)",
+                "description": "shield.txt"
+            },
+            {
+                "name": "Wall Stones",
+                "description": "stones.txt"
+            }
+        ]
+    },
+    {
+        "name": "Clio Hall",
+        "description": "clio.txt",
+        "image": "clio.jpg"
+    },
+    {
+        "name": "Nassau Presbyterian Church",
+        "description": "nassauchurch.txt",
+        "image": "nassauchurch.jpg"
+    },
+    {
+        "name": "Miller Chapel",
+        "description": "miller.txt",
+        "image": "miller.jpg"
+    },
+    {
+        "name": "Holder Hall",
+        "description": "holder.txt",
+        "image": "holder.jpg"
+    },
+    {
+        "name": "Cuyler Hall",
+        "description": "cuyler.txt",
+        "image": "cuyler.jpg"
+        ]
+    },
+    {
+        "name": "Engineering Quadrangle",
+        "description": "engineering.txt"
+        "image": "engineering.jpg"
+    },
+    {
+        "name": "Whig Hall",
+        "description": "whig.txt",
+        "image": "whig.jpg"
+    }
+]
