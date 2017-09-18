@@ -99,7 +99,7 @@
     },
     {
         "name": "Firestone Library",
-        "description": "firestone.txt"
+        "description": "firestone.txt",
         "image": "firestone.jpg",
         "subsites": [
             {
@@ -159,11 +159,10 @@
         "name": "Cuyler Hall",
         "description": "cuyler.txt",
         "image": "cuyler.jpg"
-        ]
     },
     {
         "name": "Engineering Quadrangle",
-        "description": "engineering.txt"
+        "description": "engineering.txt",
         "image": "engineering.jpg"
     },
     {
